@@ -1,2 +1,2 @@
 # Resume
-This repository contains my Latest Resume
+This repository contains my latest Resume
